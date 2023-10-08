@@ -4,11 +4,10 @@
     <title>Blog Esercizio 9</title>
 </head>
 <body>
-    <article style="background-image: url('Banana.jpg')">
         <h2>Titolo articolo</h2>
         <p>Questo è un paragrafo esempio nell'articolo del mio blog. .... contenuto........................................................................</p>
         <div id="modulo">
-        
+       <img src="light-blue.jpg"> 
     </article>
         <h2>Contattaci</h2>
         <form>
